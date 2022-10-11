@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/5q76rkyrjwumrpoi?svg=true)](https://ci.appveyor.com/project/Korartol/patterns)
